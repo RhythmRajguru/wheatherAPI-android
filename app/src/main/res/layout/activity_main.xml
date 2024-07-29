@@ -32,7 +32,7 @@
         android:drawableLeft="@drawable/baseline_location_on_24"
         android:drawablePadding="15dp"
         android:fontFamily="@font/merriweathersans_medium"
-        android:text="Ahmedabad"
+        android:text="AHMEDABAD"
         android:textColor="@color/black"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
